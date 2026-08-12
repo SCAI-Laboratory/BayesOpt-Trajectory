@@ -1,7 +1,7 @@
 # BayesOpt-Trajectory
 Behavioural Metric Analysis of Large Language Model-Based Bayesian
 Optimization Algorithms
-✨ Highlights
+✨ Highlights\\
 🔍 Code Evolution Graph (CEG) – A structural analysis framework for understanding how LLM-generated Bayesian optimization algorithms evolve through the evolutionary search process
 🌐 Search Trajectory Network (STN) – A behavioural analysis framework for visualizing and characterizing how generated algorithms explore and exploit the optimization landscape
 🧬 Evolutionary Structure Analysis – Reconstructs algorithmic lineage across generations and analyzes mutation, crossover, and parent–offspring relationships
