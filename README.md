@@ -30,6 +30,5 @@ Optimization Algorithms
 - igraph
 - Matplotlib
 
-> The STN implementation in this repository is adapted from the original Search
-> Trajectory Networks framework by Ochoa, Malan, and Blum. The original STN
+> The CEG and STN implementation in this repository is adapted from the original Search
 > implementation is R-based and uses `igraph`, `plyr`, and `tidyr`.
